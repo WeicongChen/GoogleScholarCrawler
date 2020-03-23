@@ -7,7 +7,7 @@ contact: chenwc18@mails.tsinghua.edu.cn
 
 用法:
     1. 到浏览器中把某篇文章的被引用文章列表页面保存在 htmls/ 这个文件夹下，按页面依次保存成 1.html 2.html 3.html ...
-    2. 按需要修改 do 函数中第49行和第59行
+    2. 按需要修改 do 函数中第52行和第63行
     3. 运行 python parse.py 即可在保存的csv文件中得到结果
 
 '''
